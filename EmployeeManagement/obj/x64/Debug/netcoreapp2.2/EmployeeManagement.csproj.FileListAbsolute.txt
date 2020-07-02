@@ -1,0 +1,14 @@
+C:\Microsoft Technologies\ASPCore\EmployeeManagement\EmployeeManagement\bin\x64\Debug\netcoreapp2.2\EmployeeManagement.deps.json
+C:\Microsoft Technologies\ASPCore\EmployeeManagement\EmployeeManagement\bin\x64\Debug\netcoreapp2.2\EmployeeManagement.runtimeconfig.json
+C:\Microsoft Technologies\ASPCore\EmployeeManagement\EmployeeManagement\bin\x64\Debug\netcoreapp2.2\EmployeeManagement.runtimeconfig.dev.json
+C:\Microsoft Technologies\ASPCore\EmployeeManagement\EmployeeManagement\bin\x64\Debug\netcoreapp2.2\EmployeeManagement.dll
+C:\Microsoft Technologies\ASPCore\EmployeeManagement\EmployeeManagement\bin\x64\Debug\netcoreapp2.2\EmployeeManagement.pdb
+C:\Microsoft Technologies\ASPCore\EmployeeManagement\EmployeeManagement\obj\x64\Debug\netcoreapp2.2\EmployeeManagement.csprojAssemblyReference.cache
+C:\Microsoft Technologies\ASPCore\EmployeeManagement\EmployeeManagement\obj\x64\Debug\netcoreapp2.2\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Microsoft Technologies\ASPCore\EmployeeManagement\EmployeeManagement\obj\x64\Debug\netcoreapp2.2\EmployeeManagement.RazorAssemblyInfo.cache
+C:\Microsoft Technologies\ASPCore\EmployeeManagement\EmployeeManagement\obj\x64\Debug\netcoreapp2.2\EmployeeManagement.RazorAssemblyInfo.cs
+C:\Microsoft Technologies\ASPCore\EmployeeManagement\EmployeeManagement\obj\x64\Debug\netcoreapp2.2\EmployeeManagement.AssemblyInfoInputs.cache
+C:\Microsoft Technologies\ASPCore\EmployeeManagement\EmployeeManagement\obj\x64\Debug\netcoreapp2.2\EmployeeManagement.AssemblyInfo.cs
+C:\Microsoft Technologies\ASPCore\EmployeeManagement\EmployeeManagement\obj\x64\Debug\netcoreapp2.2\EmployeeManagement.RazorTargetAssemblyInfo.cache
+C:\Microsoft Technologies\ASPCore\EmployeeManagement\EmployeeManagement\obj\x64\Debug\netcoreapp2.2\EmployeeManagement.dll
+C:\Microsoft Technologies\ASPCore\EmployeeManagement\EmployeeManagement\obj\x64\Debug\netcoreapp2.2\EmployeeManagement.pdb
